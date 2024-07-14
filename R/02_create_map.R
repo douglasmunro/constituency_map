@@ -17,7 +17,7 @@ create_map <- function(boundary) {
       
       attr <- paste('© <a href="https://openstreetmap.org/copyright/%22">OpenStreetMap </a> under <a href="https://opendatacommons.org/licenses/odbl/">ODbL</a>.',
                     'Contains ONS  data licenced under <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">OGL3</a>.',
-                    'Full licence information <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">here</a>.',
+                    'Licenced under MIT <a href="https://github.com/munrod2/constituency_map"</a>.',
                     sep = " ")
       
       map <- leaflet() |> 
