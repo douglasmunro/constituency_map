@@ -26,7 +26,7 @@ create_map <- function(boundary) {
           data = boundary,
           color = "#006548", 
           opacity = 0.8,
-          fillOpacity = 0.1
+          fillOpacity = 0
           ) |> 
         leaflet.extras::addSearchOSM() |> 
         leaflet.extras::addResetMapButton()
