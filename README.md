@@ -1,6 +1,6 @@
-# Constituency Map
+# LD Map
  
-Code to create boundary maps of UK Parliament constituencies.
+Code to create boundary maps of Libdem UK Parliament constituencies.
 
 ## Disclaimer
 
